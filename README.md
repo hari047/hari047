@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+### Welcome to Hari's GitHub! :D
+
+Hari Prasad Rangaraj is an experienced Software Engineer with more than 4 years of experience in the field having specialized in healthcare IT at Oracle Cerner for 3.5 years working at the custom reporting team. Hari worked in clinicial reporting and financial reporting demonstrating expertise in backend and frontend development. He gained deep rooted knowledge about Revenue Cycle Management and clincial decision support. He has expertise in Cerner Command Language (CCL), SQL, Python and database optimization. Hari gained significant health IT knowledge throughout his journey at Cerner by being trained on government mandates and the entire health IT system.
+
+Hari is now midway through his masters journey at Adelaide University, South Australia. He is currently pursuing his masters in Artificial Intelligence and Machine Learning where he is picking up a breath in knowledge about Reinforcement Learning, Transfer Learning, Computer Vision and predicitive modelling. Hari is currently working towards a research project in heath IT at its initial phases. He combines legacy system expertise with modern AI systems to solve complex data challenges.
+
+![Profile views](https://views.igorkowalczyk.dev/api/badge/hari047?style=flat)
 <!--
 **hari047/hari047** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
