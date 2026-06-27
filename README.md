@@ -1,12 +1,12 @@
-<!-- ## Hi! I'm Hari Prasad 🖐️ -->
+<!-- ## Hi! I'm Hari Prasad 🖐️  -->
 
 <img width="170" height="170" align="left" style="float: left; margin: 0 10px 0 0; border-radius: 50%;" alt="Igor Kowalczyk avatar"  src="https://github.com/user-attachments/assets/420bd3a1-160f-4dce-ba1a-a670fa84a07c" />
 
-<h1> <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif"> Hi! I'm Hari Prasad! </h1>
+<h1> <img alt="Waving hand" width="26" height="26" src="https://raw.githubusercontent.com/igorkowalczyk/igorkowalczyk/master/src/images/wave.gif"> Hi! I'm Hari Prasad! <a href="https://www.linkedin.com/in/hari-rangaraj/"><img width="30" height="30" alt="LinkedIn icon" src="https://github.com/user-attachments/assets/194a0b54-77f6-4ea3-a194-2aa82697f931" /></a></h1>
 
 > This is the place where I upload my opensource stuff and hopefully not break anything :rofl:<br>
 
-## [![Discord](https://img.shields.io/badge/Chat-5%20Online-black?logo=discord&logoColor=white&logoSize=auto&labelColor=grey&color=blue&cacheSeconds=3&link=https%3A%2F%2Fdiscord.gg%2F2Zfx3dK4)](https://discord.gg/2Zfx3dK4) [![GitHub repositories](https://img.shields.io/badge/GitHub%20Repositories-16-black?logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=blue&link=https%3A%2F%2Fgithub.com%2Fhari047%3Ftab%3Drepositories)](https://github.com/hari047?tab=repositories) ![Profile views](https://views.igorkowalczyk.dev/api/badge/hari047?style=flat) <br><br><br>
+## [![Discord](https://img.shields.io/badge/Chat-5%20Online-black?logo=discord&logoColor=white&logoSize=auto&labelColor=grey&color=blue&cacheSeconds=3&link=https%3A%2F%2Fdiscord.gg%2F2Zfx3dK4)](https://discord.gg/2Zfx3dK4) [![GitHub repositories](https://img.shields.io/badge/GitHub%20Repositories-16-black?logo=github&logoColor=white&logoSize=auto&labelColor=grey&color=blue&link=https%3A%2F%2Fgithub.com%2Fhari047%3Ftab%3Drepositories)](https://github.com/hari047?tab=repositories) ![Profile views](https://views.igorkowalczyk.dev/api/badge/hari047?style=flat)  <br><br><br>
 
 ### 👨‍💻 About Me
 
